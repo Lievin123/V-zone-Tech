@@ -154,7 +154,7 @@ def main (page : ft.Page):
     marque =Text("– marketing digital",text_align = 'CENTER',color = '#ECF4D6',size = 18)
     com =Text("– commission des biens ",size = 18,text_align = 'CENTER',color = '#ECF4D6')
     co =Text(" Services V-zone",size = 12,text_align = 'CENTER',color = 'white')
-    bouton_cont = ElevatedButton(text = "Nous contacter",color = 'white',height = 30,bgcolor= 'blue',width = 150,right = 10,top = 2 , on_click = lambda e:page.launch_url("https://https://wa.me/qr/5GLGY7X7MSGDP1"))
+    bouton_cont = ElevatedButton(text = "Nous contacter",color = 'white',height = 30,bgcolor= 'blue',width = 150,right = 10,top = 2 , on_click = lambda e:page.launch_url(" https://https://wa.me/qr/5GLGY7X7MSGDP1 "))
     remise = ElevatedButton(text = "remise des TPS ",color = 'white',height = 30,bgcolor= 'blue',width = 150,right = 10,bottom = 2 , on_click = lambda e: page.launch_url("https://4p6jn8m6.forms.app/remise-des-travaux-pratiques-v-zone-code-academy"))
     
     pagina = Container(
