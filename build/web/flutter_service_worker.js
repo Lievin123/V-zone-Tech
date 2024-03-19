@@ -16,6 +16,7 @@ const RESOURCES = {"canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "main.dart.js": "50c308c23112be47f73eeb211d31e243",
 "version.json": "820d870d62ad9d8dd6f38c718decf62c",
+<<<<<<< HEAD
 "assets/app/app.zip": "bfa264997700c4a9375c4ac64b9ef45e",
 "assets/app/app.zip.hash": "534c4c3faeedb7cab0c74eaf7d566d47",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "1a103a5a8ff4507b99da2e80fe07e170",
@@ -23,20 +24,40 @@ const RESOURCES = {"canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "assets/packages/window_manager/images/ic_chrome_maximize.png": "af7499d7657c8b69d23b85156b60298c",
 "assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
 "assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
+=======
+"assets/app/app.zip": "79e487648957218371a919c3f522cc26",
+"assets/app/app.zip.hash": "c70fd9c36c4be569d498aece03fdc3e5",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "1a103a5a8ff4507b99da2e80fe07e170",
+"assets/packages/window_manager/images/ic_chrome_close.png": "75f4b8ab3608a05461a31fc18d6b47c2",
+"assets/packages/window_manager/images/ic_chrome_maximize.png": "af7499d7657c8b69d23b85156b60298c",
+"assets/packages/window_manager/images/ic_chrome_minimize.png": "4282cd84cb36edf2efb950ad9269ca62",
+"assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
+>>>>>>> 2ca6988 (fourtht version of V-zone App)
 "assets/fonts/MaterialIcons-Regular.otf": "f34ace52ea74c95e26949fab4870ac22",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.json": "421830726bac265f0d4c36cc8fa0e3cc",
 "assets/AssetManifest.bin": "5dc83df601d85f38855803600abd3b98",
+<<<<<<< HEAD
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/NOTICES": "36a5e4e97612c67f7d3b4a115d568102",
 "assets/AssetManifest.bin.json": "fc4fff83290a00e397f0f5c0dc5c808c",
+=======
+"assets/AssetManifest.bin.json": "fc4fff83290a00e397f0f5c0dc5c808c",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/NOTICES": "36a5e4e97612c67f7d3b4a115d568102",
+>>>>>>> 2ca6988 (fourtht version of V-zone App)
 "icons/Icon-192.png": "817caa1985cf73eaaa8dd02dda218970",
 "icons/Icon-512.png": "1b5e2bffe69da59cfd351c35c744bcdc",
 "icons/Icon-maskable-192.png": "817caa1985cf73eaaa8dd02dda218970",
 "icons/Icon-maskable-512.png": "1b5e2bffe69da59cfd351c35c744bcdc",
 "favicon.png": "dd018003369bee3e244a8cc59f119e5f",
+<<<<<<< HEAD
 "index.html": "a6ed6905df248bd1e45d700c8f73883c",
 "/": "a6ed6905df248bd1e45d700c8f73883c",
+=======
+"index.html": "695f348302f451033497a53ea2ea6e34",
+"/": "695f348302f451033497a53ea2ea6e34",
+>>>>>>> 2ca6988 (fourtht version of V-zone App)
 "manifest.json": "3e44bf691b710a0dbb2b0bea50dbc34b",
 "python.js": "3bcd63ecdc1981bdd57bf5b04cf59c7d",
 "python-worker.js": "f0cff3b480795803a96d885b3aea822a",
